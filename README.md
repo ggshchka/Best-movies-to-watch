@@ -1,6 +1,5 @@
 # Best-movies-to-watch
 
-Cinematica.kg
+https://kinoteatr.ru/
 
-
-IMDB > 7.0
+Rating - IMDB
